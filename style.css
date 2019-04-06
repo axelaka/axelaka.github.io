@@ -4,7 +4,7 @@ html, body {
 
 body {
   background: linear-gradient(0deg, green, blue);
-  background-attachment: fixed;
+  background-attachment: fixed;s
 }
 
 b {
@@ -19,3 +19,9 @@ p {
 img {
 	border: 16px solid green;
 }
+
+a {
+	color: yellow;
+  font-size: 23px;
+}
+
