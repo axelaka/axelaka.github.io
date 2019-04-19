@@ -9,6 +9,7 @@ body {
 
 b {
 	color: yellow;
+	font-size:  23px;
 }
 
 p {
@@ -19,6 +20,7 @@ p {
 img {
 	border: 16px solid green;
 }
+
 
 a {
 	color: yellow;
